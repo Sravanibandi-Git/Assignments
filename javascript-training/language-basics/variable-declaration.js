@@ -1,0 +1,1 @@
+//Syntax to store data in JS: Declaration variable = Data; 
