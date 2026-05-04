@@ -15,13 +15,11 @@ for (let i:number =0; i < n.length; i++){
 else if ( n[i] < 0 )
 {
     power[i] = 1/(x ** (-(n[i])));
-    
 }
 //Logic for x power postive number
  else {
    power[i] =(x ** (n[i])); 
-   
-} 
+ } 
 //Printing the x power n(values in the Array)
 console.log(power[i]);
 }
